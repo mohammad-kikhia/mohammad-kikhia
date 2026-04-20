@@ -2,7 +2,7 @@
 ## Thanks for stopping by ❤
 
 ## About me
-*I'm Mohammad Kikhia, I'm 26*  
+*I'm Mohammad Kikhia, I'm 28*  
 *I'm a self-taught ReactJs / NextJs developer*
 
 
@@ -10,10 +10,10 @@
 ### 💥 My most recent project [here](https://github.com/mohammad-kikhia/Weather-App)
 
 ## 📫 How to reach me: 
-- [Email](mailto:m7md.master1@gmail.com)
+- [Email](mailto:mohammad.kikhia1997@gmail.com)
 - [LinkedIn](https://linkedin.com/in/mohammad-kikhia)
-- [Facebook](https://facebook.com/100010744380377)
-- [Instagram](https://instagram.com/m7md.abo_jacob)
+- [Facebook](https://facebook.com/share/1DdSsP8DSJ)
+- [Instagram](https://instagram.com/mohammad_ki711)
 
 >⚡ IF MY MIND CAN CONCEIVE IT, IF MY HEART CAN BELIEVE IT, THEN I CAN ACHIEVE IT.  
 > 🥊 *Mohammad Ali*
