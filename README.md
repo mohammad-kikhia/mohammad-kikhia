@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 Check out [my portfolio](https://mohammad-kikhia.vercel.app)
-### 💥 My most recent project [here](https://github.com/mohammad-kikhia/Weather-App)
+### 💥 My most recent project [here](https://u-shopia.vercel.app/)
 
 ## 📫 How to reach me: 
 - [Email](mailto:mohammad.kikhia1997@gmail.com)
